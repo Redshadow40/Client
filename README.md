@@ -11,4 +11,4 @@ You may specify the ip and port on run: -ip <ipAddress> -p <port>
 
 Note: if no ip or port is specified, the default values are localhost:6175
 
-The program life file is generated in the directory that it is ran from
+The program life file is generated in the directory that it is run from
