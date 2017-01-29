@@ -1,0 +1,70 @@
+Jan 28, 2017 9:58:05 PM client.Client main
+SEVERE: incorrect arguments
+Jan 28, 2017 9:58:53 PM client.Client main
+SEVERE: incorrect arguments
+Jan 28, 2017 9:59:32 PM client.Client main
+SEVERE: incorrect arguments
+Jan 28, 2017 10:00:05 PM client.Client main
+INFO: address set to: http://localhost:6000/
+Jan 28, 2017 10:01:47 PM client.Client main
+INFO: address set to: http://localhost:6000/
+Jan 28, 2017 10:05:13 PM client.Client main
+INFO: address set to: http://localhost:6000/
+Jan 28, 2017 10:05:50 PM client.Client main
+INFO: address set to: http://localhost:6000/
+Jan 28, 2017 10:11:59 PM client.Client main
+INFO: address set to: http://localhost:6000/
+Jan 28, 2017 10:27:21 PM client.Client main
+INFO: address set to: http://localhost:6000/
+Jan 28, 2017 10:27:26 PM client.sendCommand run
+INFO: 12 -- Generated xml: <Request command="test"><ticketid>1649</ticketid></Request>
+Jan 28, 2017 10:27:26 PM client.sendCommand run
+INFO: 12 -- Received: <Response status="bad command"><ticketid>1649</ticketid><datetime>2017-01-28 22:27:26.499</datetime></Response>
+Jan 28, 2017 10:27:41 PM client.sendCommand run
+INFO: 13 -- Generated xml: <Request command="print"><ticketid>8709</ticketid></Request>
+Jan 28, 2017 10:27:43 PM client.sendCommand run
+INFO: 14 -- Generated xml: <Request command="test"><ticketid>3862</ticketid></Request>
+Jan 28, 2017 10:27:43 PM client.sendCommand run
+INFO: 14 -- Received: <Response status="bad command"><ticketid>3862</ticketid><datetime>2017-01-28 22:27:43.113</datetime></Response>
+Jan 28, 2017 10:27:43 PM client.sendCommand run
+INFO: 13 -- Received: <Response status="Successful"><ticketid>8709</ticketid><datetime>2017-01-28 22:27:43.531</datetime></Response>
+Jan 28, 2017 10:30:39 PM client.Client main
+INFO: address set to: http://localhost:6000/
+Jan 28, 2017 10:30:49 PM client.sendCommand run
+INFO: 12 -- Generated xml: <Request command="print"><ticketid>9740</ticketid></Request>
+Jan 28, 2017 10:31:31 PM client.Client main
+INFO: address set to: http://localhost:1234/
+Jan 28, 2017 10:32:16 PM client.sendCommand run
+INFO: 12 -- Generated xml: <Request command="pudding"><ticketid>1020</ticketid></Request>
+Jan 28, 2017 10:32:16 PM client.sendCommand run
+INFO: 12 -- Received: <Response status="bad command"><ticketid>1020</ticketid><datetime>2017-01-28 22:32:16.585</datetime></Response>
+Jan 28, 2017 10:33:11 PM client.sendCommand run
+INFO: 13 -- Generated xml: <Request command="print"><ticketid>9257</ticketid></Request>
+Jan 28, 2017 10:33:13 PM client.sendCommand run
+INFO: 13 -- Received: <Response status="Successful"><ticketid>9257</ticketid><datetime>2017-01-28 22:33:13.541</datetime></Response>
+Jan 28, 2017 10:33:19 PM client.sendCommand run
+INFO: 14 -- Generated xml: <Request command="print"><ticketid>6599</ticketid></Request>
+Jan 28, 2017 10:33:21 PM client.sendCommand run
+INFO: 15 -- Generated xml: <Request command="delete"><ticketid>7796</ticketid></Request>
+Jan 28, 2017 10:33:21 PM client.sendCommand run
+INFO: 14 -- Received: <Response status="Successful"><ticketid>6599</ticketid><datetime>2017-01-28 22:33:21.761</datetime></Response>
+Jan 28, 2017 10:33:23 PM client.sendCommand run
+INFO: 15 -- Received: <Response status="Successful"><ticketid>7796</ticketid><datetime>2017-01-28 22:33:23.488</datetime></Response>
+Jan 28, 2017 10:33:47 PM client.sendCommand run
+INFO: 16 -- Generated xml: <Request command="doodoo"><ticketid>1376</ticketid></Request>
+Jan 28, 2017 10:33:47 PM client.sendCommand run
+INFO: 16 -- Received: <Response status="bad command"><ticketid>1376</ticketid><datetime>2017-01-28 22:33:47.683</datetime></Response>
+Jan 28, 2017 10:35:35 PM client.Client main
+INFO: address set to: http://localhost:1234/
+Jan 28, 2017 10:35:39 PM client.sendCommand run
+INFO: 12 -- Generated xml: <Request command="print"><ticketid>1984</ticketid></Request>
+Jan 28, 2017 10:35:39 PM client.sendCommand run
+INFO: 12 -- Sending: <Request command="print"><ticketid>1984</ticketid></Request>
+Jan 28, 2017 10:35:41 PM client.sendCommand run
+INFO: 12 -- Received: <Response status="Successful"><ticketid>1984</ticketid><datetime>2017-01-28 22:35:41.281</datetime></Response>
+Jan 28, 2017 10:35:55 PM client.sendCommand run
+INFO: 13 -- Generated xml: <Request command="cookie"><ticketid>9783</ticketid></Request>
+Jan 28, 2017 10:35:55 PM client.sendCommand run
+INFO: 13 -- Sending: <Request command="cookie"><ticketid>9783</ticketid></Request>
+Jan 28, 2017 10:35:55 PM client.sendCommand run
+INFO: 13 -- Received: <Response status="bad command"><ticketid>9783</ticketid><datetime>2017-01-28 22:35:55.632</datetime></Response>
